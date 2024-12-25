@@ -12,7 +12,7 @@ This repository contains bar graphs comparing **bigram** and **skipgram** freque
 
 ### Graph Features
 
-- **Handling Zipf’s Law**: Scales are adjusted to accommodate unequal letter frequencies, preventing the data of less frequent letters from being unreadable.
+- **Handling Zipf’s Law**: Y-scale is adjusted to accommodate unequal letter frequencies, preventing the data of less frequent letters from being unreadable.
 - **Custom Color Palette**: Frequencies are visualized using a color-blind accessible and perceptually uniform color scale via OKLab for clear interpretation across the different scales.
 - **Sorted Bars**: The bars are sorted in descending order based on bigram frequency, visually prioritizing the most important bigrams for keyboard optimization, with skipgrams as a secondary factor for consideration.
 - **Stacked bars** represent both bigram and skipgram frequencies, with skipgram occurrences placed on top of bigrams and shaded darker. This helps visualize the overall importance of a key combination.
