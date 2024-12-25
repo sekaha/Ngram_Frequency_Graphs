@@ -2,7 +2,7 @@
 
 This repository contains bar graphs comparing **bigram** and **skipgram** frequencies in English according to the _iWeb corpus_ (more specifically the free samples of it avaiable).  Analyzing **bigram** and **skipgram** frequencies is important for the creation of alternative layouts, as an optimal arragment should try to limit the occurence of bigrams and skipgrams typed using the same finger. To better understand why avoiding this is ideal, see my paper [A Data-Driven Approach to Keyboard Optimization]([https://github.com/sekaha/DDAKO]).
 
-![Skipgram and Bigram Comparison for A](main/out/A_Stats.png)
+![Skipgram and Bigram Comparison for A](out/A_Stats.png)
 
 
 ### Overview
