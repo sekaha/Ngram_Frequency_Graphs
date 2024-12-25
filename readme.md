@@ -8,8 +8,8 @@ This repository contains bar graphs comparing **bigram** and **skipgram** freque
 
 ### Overview
 
-- **Bigrams**: Two-character sequences appearing in English text i.e., `th`, `he`, and `er`. 
-- **Skipgrams** Two-character sequences with the interveaning character removed i.e., `te` in `the`, `my` in `may`.
+- **Bigrams**: Two-character sequences appearing in English text, e.g., `th`, `he`, and `er`. 
+- **Skipgrams** Two-character sequences with the intervening character removed, e.g., `te` in `the`, `my` in `may`.
 
 ### Graph Features
 
@@ -20,8 +20,8 @@ This repository contains bar graphs comparing **bigram** and **skipgram** freque
 
 ### Normalization
 
-- **Shift**-key variations are combined (e.g., `;` and `:`, and `e` and `E` are considered equivalent).
-- The Letter pairs are **noramlized** to be directionally independent (e.g., `th` and `ht` are treated the same).
+- **Shift**-key variations are combined, e.g., `;` and `:`, and `e` and `E`.
+- The Letter pairs are **noramlized** to be directionally independent, e.g., `th` and `ht`.
 
 ### Generating the Graphs Yourself
 
