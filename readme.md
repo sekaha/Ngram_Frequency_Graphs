@@ -53,7 +53,6 @@ pip install matplotlib
 ![Skipgram and Bigram Comparison for X](out/X_Stats.png)
 ![Skipgram and Bigram Comparison for Y](out/Y_Stats.png)
 ![Skipgram and Bigram Comparison for Z](out/Z_Stats.png)
-![Skipgram and Bigram Comparison for -](out/-_Stats.png)
 ![Skipgram and Bigram Comparison for ;](out/;_Stats.png)
 ![Skipgram and Bigram Comparison for '](out/'_Stats.png)
 ![Skipgram and Bigram Comparison for ,](out/,_Stats.png)
